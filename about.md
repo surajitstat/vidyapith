@@ -1,79 +1,60 @@
 
 
+Vidyapith is an International Foundation for the Advancement of Education in relation to the Eradication of Poverty in India
 
-The Ramganga Water Quality Fusion project is a collaboration between two leading UK universities, one leading Indian University and two UK research institutes. The consortium includes researchers with expertise in statistics, environmental modeling and  remote sensing. (to be edited)
 
 ## Team
-### University of Glasgow
-* [Ray, S. (PI) ](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/surajitray/)
-* [Scott, Professor M](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/)
-* [Miller, Professor CA](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/claireferguson/) 
-* [Wilkie, Dr CJ](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/craigwilkie/)
 
-###	 James Hutton Institute
-* [Helliwell, Dr RC](https://www.hutton.ac.uk/staff/rachel-helliwell)
-* [Glendell, Dr M](https://www.hutton.ac.uk/staff/miriam-glendell) 
+## Chairman: 
+* [Professor Indrajit Ray](https://sites.google.com/site/indraray1969), Economist, Cardiff Business School;
 
-### Indian Institute of Technology, Kanpur
-* [Sinha, Professor R](http://home.iitk.ac.in/~rsinha/)
-* [Singh, Dr MN](https://www.researchgate.net/profile/Manudeo_Singh)
-* [Choudhary, Dr BC](https://www.researchgate.net/profile/Bharat-Choudhary-2)
 
-### UK Centre for Ecology and Hydrology
-* [Read, Dr D S](https://www.ceh.ac.uk/staff/daniel-read)
-* [Bowes, Dr M](https://www.ceh.ac.uk/staff/mike-bowes) 
+## Treasurer:
+*  Ms. Diya Sen, UK Corporate Tax Consultant, PwC; Co-Treasurer: Mr. Josh Ray, MSci in Chemistry (Imperial College, London);
 
-### University of Stirling
-* [Tyler, Professor AN](https://www.stir.ac.uk/people/257330)
-* [Hunter, Dr P D](https://www.stir.ac.uk/people/255710) 	
-* [Mascarenhas, Dr V](https://www.stir.ac.uk/people/1677279)
-
-## Team with pictures and link
+### Trustee  
+* [Professor Siddhartha Bandyopadhyay](https://www.birmingham.ac.uk/staff/profiles/business/bandyopadhyay-siddhartha.aspx), Economist, Birmingham Business School;
+* [Chirantan Ganguly](https://www.qub.ac.uk/schools/queens-business-school/people/academic-staff/AllAcademicStaffProfiles/Ganguly.html), Economist, Queen’s University Belfast Management School;
+* [Mr. Sukand Ramachandran](https://www.bcg.com/about/people/experts/sukand-ramachandran), Managing Director and Senior Partner, BCG London.
 
 
 
-### University of Glasgow
-[![Ray, S. (PI)](assets/faces/ray.jpg)](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/surajitray/) 
-<!--- -->
-[![Scott, Professor M](assets/faces/mscott.jpg)](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/)
-<!--- -->
-[![Miller, Professor CA](assets/faces/cmiller.jpg)](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/claireferguson/) 
-<!--- -->
-[![Wilkie, Dr C J](assets/faces/craig_wilkie_2.jpg)](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/craigwilkie/) 
+Vidyapith has awarded GBP170K (INR1.5 Crores) as grants to 163 different institutions
+* [so far](http://www.vidyapith.net/sofar.pdf). 
+* See the [list](http://www.vidyapith.net/schoollist.pdf) 
+* the [summary](http://www.vidyapith.net/allprojects.pdf).
 
-###	 James Hutton Institute
- [![Helliwell, Dr RC](assets/faces/rachel-helliwell.jpg)](https://www.hutton.ac.uk/staff/rachel-helliwell)
-<!--- -->
-[![Glendell, Dr M](assets/faces/miriam-glendell.jpg)](https://www.hutton.ac.uk/staff/miriam-glendell) 
+Annual financial statements: 
 
-### Indian Institute of Technology, Kanpur
- [![Sinha, Professor R](assets/faces/rajiv-sinha.png)](http://home.iitk.ac.in/~rsinha/)
- [![Choudhary, Dr B C](assets/faces/Dr_Bharat_Choudhary.jpg)](https://www.researchgate.net/profile/Bharat-Choudhary-2) 
- [![Singh, Dr M N](assets/faces/manudeo_singh.jpg)](https://www.researchgate.net/profile/Manudeo_Singh) 
+* [2005-06](http://www.vidyapith.net/0506statement.pdf); 
+* [2006-07](http://www.vidyapith.net/0607statement.pdf); 
+* [2007-08](http://www.vidyapith.net/0708statement.pdf); 
+* [2008-09](http://www.vidyapith.net/0809statement.pdf); 
+* [2009-10](http://www.vidyapith.net/0910statement.pdf); 
+* [2010-11](http://www.vidyapith.net/1011statement.pdf); 
+* [2011-12](http://www.vidyapith.net/1112statement.pdf); 
+* [2012-13](http://www.vidyapith.net/1213statement.pdf); 
+* [2013-14](http://www.vidyapith.net/1314statement.pdf); 
+* [2014-15](http://www.vidyapith.net/1415statement.pdf); 
+* [2015-16](http://www.vidyapith.net/1516statement.pdf); 
+* [2016-17](http://www.vidyapith.net/1617statement.pdf); 
+* [2017-18](http://www.vidyapith.net/1718statement.pdf); 
+* [2018-19](http://www.vidyapith.net/1819statement.pdf); 
+* [2019-20](http://www.vidyapith.net/1920statement.pdf); 
+* [2020-21](http://www.vidyapith.net/2021statement.pdf); 
+* [2021-22](http://www.vidyapith.net/2122statement.pdf); 
+* [2022-23](http://www.vidyapith.net/2223statement.pdf);
 
-### UK Centre for Ecology and Hydrology
- [![Read, Dr D S](assets/faces/dan-read.jpg)](https://www.ceh.ac.uk/staff/daniel-read)
- [![Bowes, Dr M](assets/faces/mike-bowes.jpg)](https://www.ceh.ac.uk/staff/mike-bowes) 
+  
+[UK charity registration number: 1114072](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/4021122/charity-overview); 
 
-### University of Stirling
-[![Tyler, Professor AN](assets/faces/a_tyler.png)](https://www.stir.ac.uk/people/257330)
-[![Hunter, Dr P D](assets/faces/phunter.jpeg)](https://www.stir.ac.uk/people/255710) 	
+46 Charlotte Road, Edgbaston, 
 
-## Funder 
+Birmingham B15 2NH, UK; 
 
-[Link to project on EPSRC-GOW](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T003669/1)  
++44.121.2182086; 
 
+[vidyapith@vidyapith.net](mailto:vidyapith@vidyapith.net);
 
-## Partner institutions
-
----
-[![alt-text-1](assets/images/uog.png){:height="50px"}](https://www.gla.ac.uk/)  [![alt-text-2](assets/images/uos.png){:height="50px"}](https://www.stir.ac.uk/)  [![alt-text-2](assets/images/ceh.png){:height="50px"}](https://www.ceh.ac.uk/) [![alt-text-2](assets/images/jhi.png){:height="50px"}](https://www.hutton.ac.uk/) [![alt-text-2](assets/images/iitk.png){:height="50px"}](https://www.iitk.ac.in/) 
-
----
-
-## Supporting partners
----
-[![alt-text-1](assets/images/iukwc.png){:height="50px"}](https://iukwc.org/)  [![alt-text-2](assets/images/nmcge.jpg){:height="50px"}](https://nmcg.nic.in/NamamiGanga.aspx)   [![alt-text-3](assets/images/aqua-watch-logo_2.png){:height="50px"}](https://www.geoaquawatch.org/)  [![alt-text-4](assets/images/mahseer.png){:height="50px"}](https://www.mahseertrust.org/)
-
----
-
+[Facebook](https://www.facebook.com/Vidyapith.EducationEradicatesPovertyInIndia) 
+[Instagram](https://www.instagram.com/vidyapith1) pages
