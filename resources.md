@@ -1,56 +1,26 @@
-Resources will be available here
-## Recent publications
+# Vidyapith has awarded GBP 170K (INR1.5 Crores) as grants to 163 different institutions
 
-## Available data
+* [Yearly Earnings and Spending](http://www.vidyapith.net/sofar.pdf). 
+* [Full list](http://www.vidyapith.net/schoollist.pdf) 
+* [Summary of Projects](http://www.vidyapith.net/allprojects.pdf).
 
-The Indian Institute of Technology Kanpur team are collecting data from 17 sites along the Ramganga river and its tributaries. Satellite data are also being calibrated by the University of Stirling team for use in data fusion.
+# Annual financial statements: 
 
-### Field campaigns
-
-Sampling campaigns are being carried out to catch multiple cycles of data:
-
-| 2019 |  Geochemical data | Sonde instrument | WISP instrument | Biological kit | DNA kit | Drone |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|       Monsoon (August) | Yes
-|       Post-monsoon (December) | Yes
-| **2020** |  
-|       Monsoon (September) | Yes | Yes 
-|       Post-monsoon (December) | Yes | Yes 
-| **2021** | 
-|       Pre-monsoon (March) | Yes | Yes | Yes | Yes | Yes 
-|       Monsoon (TBC) | Yes | Yes | Yes | Yes | Yes | Yes 
-|       Post-monsoon (TBC) | Yes | Yes | Yes | Yes | Yes | Yes 
-
-Water samples are collected to be analysed in the laboratory by Inductively coupled plasma mass spectroscopy (ICP-MS) and by Ion Chromatography. Two instruments and two kits provide additional data.
-
-| Geochemical data | | |
-| --- | --- | --- |
-| Trace elements | 27 elements | by Inductively coupled plasma mass spectroscopy (ICP-MS) |
-| Cation | 4 elements | by Ion Chromatography |
-| Anions | 6 elements | by Ion Chromatography |
-| **Physicochemical and biological data** | | |
-| Sonde Instrument | 6 parameters | |
-| WISP Instrument | 4 parameters | |
-| Biological Kit | 2 parameters | |
-| DNA Kit | | Sent to UK Centre for Ecology and Hydrology for analysis |
-
-**Drone images** will also be captured in the monsoon and post-monsoon field campaigns in 2021, capturing short regions of the river at high spatial resolution (approximately 2m by 2m grid).
-
-### Remote sensing data
-
-Sentinel-2 images are being calibrated by the University of Stirling team for use in data fusion. Each image will capture the river on a grid with a high spatial resolution of 10m by 10m. Measures of chlorophyll-a and total suspended matter will be derived from the reflectances.
-
-## Summary results
-
-## Codes/Softwares
-
-The NSD R package for nonparametric statistical downscaling is available on GitHub [here](https://github.com/cwilkie1990/NSD). The package can be installed within R using `devtools::install_github("cwilkie1990/NSD")`. The package contains two main functions:
-
-* `run.NSDmodel()` allows fitting the nonparametric statistical downscaling model of [Wilkie et al. (2019)](https://doi.org/10.1002/env.2549) to fuse data of different spatiotemporal support.
-* `run.NSDmodelMulti()` is similar to `run.NSDmodel()`, but with two covariates to be fused with the response rather than the single covariate in `run.NSDmodel()`.
-
-The R package documentation is available as a PDF document here: [NSD.pdf](https://github.com/surajitstat/ramganga/files/10549593/NSD.pdf).
-
-## Shiny App
-
-
+* [2005-06](http://www.vidyapith.net/0506statement.pdf); 
+* [2006-07](http://www.vidyapith.net/0607statement.pdf); 
+* [2007-08](http://www.vidyapith.net/0708statement.pdf); 
+* [2008-09](http://www.vidyapith.net/0809statement.pdf); 
+* [2009-10](http://www.vidyapith.net/0910statement.pdf); 
+* [2010-11](http://www.vidyapith.net/1011statement.pdf); 
+* [2011-12](http://www.vidyapith.net/1112statement.pdf); 
+* [2012-13](http://www.vidyapith.net/1213statement.pdf); 
+* [2013-14](http://www.vidyapith.net/1314statement.pdf); 
+* [2014-15](http://www.vidyapith.net/1415statement.pdf); 
+* [2015-16](http://www.vidyapith.net/1516statement.pdf); 
+* [2016-17](http://www.vidyapith.net/1617statement.pdf); 
+* [2017-18](http://www.vidyapith.net/1718statement.pdf); 
+* [2018-19](http://www.vidyapith.net/1819statement.pdf); 
+* [2019-20](http://www.vidyapith.net/1920statement.pdf); 
+* [2020-21](http://www.vidyapith.net/2021statement.pdf); 
+* [2021-22](http://www.vidyapith.net/2122statement.pdf); 
+* [2022-23](http://www.vidyapith.net/2223statement.pdf);
