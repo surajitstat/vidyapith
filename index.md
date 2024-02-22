@@ -1,5 +1,4 @@
 
-![](assets/images/facebook.jpg)
   
 ## Who we are
 
