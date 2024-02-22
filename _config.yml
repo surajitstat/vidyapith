@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title:  Vidyapith
 description:  An International Foundation for the Advancement of Education in relation to the Eradication of Poverty in India
 tagline:  An International Foundation for the Advancement of Education in relation to the Eradication of Poverty in India
-logo: "assets/images/facebook.jpg"
+logo: "assets/logo/logo3.png"
 author: Surajit Ray
 defaults:
   # _docs
