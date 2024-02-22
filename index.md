@@ -1,5 +1,5 @@
 
-{% include carousel.html height="60" unit="%" duration="5" %}
+![](assets/images/facebook.jpg)
   
 ## Who we are
 
