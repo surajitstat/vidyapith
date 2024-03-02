@@ -26,3 +26,5 @@ Annual financial statements:
 * [2021-22](http://www.vidyapith.net/2122statement.pdf); 
 * [2022-23](http://www.vidyapith.net/2223statement.pdf);
 
+[Map of funded Schools](https://www.google.com/maps/d/u/0/edit?mid=1e1D4cL1lQVSBSrwpRIAXBFJbR7T8Kqs&usp=sharing)
+
