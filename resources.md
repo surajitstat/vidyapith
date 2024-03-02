@@ -26,5 +26,3 @@ Annual financial statements:
 * [2021-22](http://www.vidyapith.net/2122statement.pdf); 
 * [2022-23](http://www.vidyapith.net/2223statement.pdf);
 
-  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D122207734178011903%26set%3Da.122109782372011903%26type%3D3&show_text=false&width=500" width="500" height="683" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
